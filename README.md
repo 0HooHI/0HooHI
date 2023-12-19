@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @0HooHI and I'm studying CS in Hongik Univ in Seoul!
-- 
+- 👋 Hi there!
+
 - 👀 I’m interested in C++ , C and Python etc..
-- 
+  
 - 🌱 I’m currently learning C++! its cool!
-- 
+  
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 Please Email youngho030411@gmail.com to contact me.
