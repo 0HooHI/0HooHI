@@ -1,12 +1,4 @@
-- 👋 Hi there!
-
-- 👀 I’m interested in C++ , C and Python etc..
-  
-- 🌱 I’m currently learning C++! its cool!
-  
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 Please Email youngho030411@gmail.com to contact me.
+#Language : C / C++ / Python / Java ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0HooHI&show_icons=true&theme=radical)
 
