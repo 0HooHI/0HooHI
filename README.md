@@ -1,6 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&text=Welcome!-nl-0HooHi's%20GitHub&fontSize=50&fontColor=97DBAE&height=100&section=header" />
-<h3 align="center">🛠 Develop 🛠</h3>
+<h3 align="center">✨ Develop ✨</h3>
 <br>  
 <div align="center"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 <br>
-<h3 align="center">Enviorment</h3>
+<h3 align="center">🛠 Tools 🛠</h3>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br><br><br>
